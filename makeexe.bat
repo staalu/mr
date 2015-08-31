@@ -1,0 +1,1 @@
+pyinstaller -i "C:\deskFences\wallpaper headico\VVV.ico" -F F:\riping\mr\mr.py

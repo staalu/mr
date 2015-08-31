@@ -1,0 +1,1 @@
+.\x264_32_tMod-8bit-all.exe --crf 23.5 --rc-lookahead 40 --merange 24 --min-keyint 1 --cqm "jvt" --keyint 500 --me umh --subme 9 --device psv --threads 18 --abitrate 128  --output "<OUTPUT_H264_FILE_PATH_DONOT_EDIT_THIS>" "<INPUT_AVS_FILE_PATH_DONOT_EDIT_THIS>"
